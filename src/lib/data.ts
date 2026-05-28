@@ -76,7 +76,7 @@ export const PARTNERS = [
   {
     id: 2,
     name: "Amit Garg",
-    title: "Partner (Suncity Office)",
+    title: "Partner",
     bio: "A dynamic real estate professional renowned for his exceptional market acumen and ability to connect clients with their dream properties. His dedication to personalised service has redefined the luxury buying experience.",
     image: "/images/partners/partner-2-actual.png",
     email: "garg.amit243@gmail.com",
@@ -86,7 +86,7 @@ export const PARTNERS = [
   {
     id: 3,
     name: "Kamal Bansal",
-    title: "Partner (Omaxe Office)",
+    title: "Partner",
     bio: "An accomplished professional who brings warmth, precision, and elegance to every client interaction. Her meticulous attention to detail and deep understanding of client aspirations ensures truly bespoke living solutions.",
     image: "/images/partners/partner-3-actual.png",
     email: "mr.estates1@gmail.com",
@@ -161,7 +161,7 @@ export const SOCIAL_LINKS = [
   },
   {
     platform: "WhatsApp",
-    handle: "+91 98765 43210",
+    handle: "+91 9729071415",
     url: `https://wa.me/${SITE_CONFIG.whatsapp}`,
     icon: "whatsapp",
     description: "Chat with us directly",
